@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roommate Finder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Debal - Find Your Perfect Roommate!</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Debal is a platform designed to help individuals in Addis Ababa find compatible roommates to share apartments or condominiums and alleviate housing costs.</p>
+        </section>
+        <section>
+            <h2>Find a Roommate</h2>
+            <p>Use our search feature to find potential roommates based on your preferences and criteria.</p>
+        </section>
+        <section>
+            <h2>Contact Us</h2>
+            <p>Have questions or feedback? Contact our support team at support@debal.com</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Debal - All rights reserved.</p>
+    </footer>
+</body>
+</html>
